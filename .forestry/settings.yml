@@ -11,6 +11,9 @@ sections:
   match: "**/*"
   templates:
   - test
+  - test
+- type: heading
+  label: Test
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
