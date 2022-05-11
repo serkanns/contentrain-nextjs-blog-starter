@@ -7,7 +7,6 @@ sections:
 - type: document
   path: test
   label: test
-  match: "**/*"
 - type: directory
   path: forsetry
   label: test
@@ -16,8 +15,6 @@ sections:
   templates:
   - test
   - test
-- type: heading
-  label: Test
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
