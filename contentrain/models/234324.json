@@ -59,5 +59,18 @@
     "componentId": "single-line-text",
     "validations": {},
     "options": {}
+  },
+  {
+    "name": "342342-6",
+    "description": "wer",
+    "fieldId": "342342-6",
+    "modelId": "234324",
+    "componentId": "single-line-text",
+    "validations": {},
+    "options": {
+      "title-field": {
+        "value": true
+      }
+    }
   }
 ]
