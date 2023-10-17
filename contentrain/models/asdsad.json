@@ -44,5 +44,18 @@
     },
     "componentId": "email",
     "modelId": "asdsad"
+  },
+  {
+    "name": "3243243rw",
+    "description": "213",
+    "fieldId": "3243243rw",
+    "validations": {},
+    "options": {
+      "title-field": {
+        "value": true
+      }
+    },
+    "componentId": "decimal",
+    "modelId": "asdsad"
   }
 ]
