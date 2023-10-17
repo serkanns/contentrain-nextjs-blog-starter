@@ -11,5 +11,14 @@
     },
     "componentId": "single-line-text",
     "modelId": "234324"
+  },
+  {
+    "name": "342342-1",
+    "description": "wer",
+    "fieldId": "342342-1",
+    "modelId": "234324",
+    "componentId": "single-line-text",
+    "validations": "",
+    "options": ""
   }
 ]
