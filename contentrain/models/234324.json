@@ -39,19 +39,6 @@
     "options": ""
   },
   {
-    "name": "342342-4",
-    "description": "wer",
-    "fieldId": "342342-4",
-    "modelId": "234324",
-    "componentId": "single-line-text",
-    "validations": {},
-    "options": {
-      "title-field": {
-        "value": true
-      }
-    }
-  },
-  {
     "name": "342342-1-1-1-1",
     "description": "wer",
     "fieldId": "342342-1-1-1-1",
