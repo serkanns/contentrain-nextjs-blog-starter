@@ -23,5 +23,26 @@
     },
     "componentId": "color",
     "modelId": "asdsad"
+  },
+  {
+    "name": "qwewqe",
+    "fieldId": "qwewqe",
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "email": {
+            "value": "korkacserkan@gmail.com"
+          }
+        }
+      }
+    },
+    "componentId": "email",
+    "modelId": "asdsad"
   }
 ]
